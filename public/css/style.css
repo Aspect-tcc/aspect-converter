@@ -1,0 +1,53 @@
+/*mensagens de erro*/
+.errors{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: fit-content;
+    font-family: arial;
+    border-radius: 10px;
+    background-color: rgba(250, 6, 6, 0.257);
+    color: red;
+    padding: 2px 30px;
+    position: relative;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: auto;
+}
+
+/*body{
+background: linear-gradient(287.55deg,#5110b3 0%, #2c81f1 100%) no-repeat;
+}*/
+
+button{
+    border: 0;
+    border-radius: 4px;
+    background-color: rgb(243, 106, 243);
+    color: black;
+    padding: 3px 5px;
+    margin-left: 7px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.footer{
+    position: fixed;
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+    bottom: 0;
+    height: 30px;
+    border-top: 1;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: arial;
+}
